@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "wjhdq13yvX6qWHvW3Ut2ie6jabFDFLk5wKa7OO1kO9A=",
+  "Source": "MyWebApp",
+  "BasePath": "_content/MyWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApp\\wwwroot",
+      "Source": "MyWebApp",
+      "ContentRoot": "C:\\Users\\PRASAD K\\Documents\\SURESH\\wipro training\\visual studio codes\\MyWebApp\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PRASAD K\\Documents\\SURESH\\wipro training\\visual studio codes\\MyWebApp\\MyWebApp\\wwwroot\\index.html",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PRASAD K\\Documents\\SURESH\\wipro training\\visual studio codes\\MyWebApp\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

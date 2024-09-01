@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRASAD K\\Documents\\SURESH\\wipro training\\visual studio codes\\MyWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF67BDB-BD66-4996-A0B2-BF5989495D0D}|MyWebApp\\MyWebApp.csproj|c:\\users\\prasad k\\documents\\suresh\\wipro training\\visual studio codes\\mywebapp\\mywebapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CF67BDB-BD66-4996-A0B2-BF5989495D0D}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF67BDB-BD66-4996-A0B2-BF5989495D0D}|MyWebApp\\MyWebApp.csproj|c:\\users\\prasad k\\documents\\suresh\\wipro training\\visual studio codes\\mywebapp\\mywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF67BDB-BD66-4996-A0B2-BF5989495D0D}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRASAD K\\Documents\\SURESH\\wipro training\\visual studio codes\\MyWebApp\\MyWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\PRASAD K\\Documents\\SURESH\\wipro training\\visual studio codes\\MyWebApp\\MyWebApp\\Program.cs",
+              "RelativeToolTip": "MyWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:17:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\PRASAD K\\Documents\\SURESH\\wipro training\\visual studio codes\\MyWebApp\\MyWebApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "MyWebApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\PRASAD K\\Documents\\SURESH\\wipro training\\visual studio codes\\MyWebApp\\MyWebApp\\wwwroot\\index.html",
+              "RelativeToolTip": "MyWebApp\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-16T11:16:41.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
